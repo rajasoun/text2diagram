@@ -1,0 +1,13 @@
+# Comment
+TextUSM
+    Online tool for making user story mapping
+        Press Tab to indent lines
+        Press Shift + Tab to unindent lines: Note
+    Work Quickly
+        Draw Diagram without leaving the Keyboard
+    Save Time
+        Instantly Visualize Ideas
+    Export To Images
+        Images can be exported as png or svg
+    Share 
+        Sahre diagrams online

@@ -1,0 +1,8 @@
+SAYS
+    Siloed Data
+THINKS
+    Productivity Increase
+DOES
+    Collects Data
+FEELS
+    Frustrated
