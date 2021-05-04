@@ -1,0 +1,12 @@
+Liked
+    Slack GitHub Intgeration
+Learned
+    Organizing the Work
+    Seek for Help when Needed
+    Chuncking the Stories
+Lacked
+    Training on Git Flow 
+    Training on Promoting from Dev 2 QA 2 UAT
+Longed for
+    Prepare Checklist for PR Review
+    
